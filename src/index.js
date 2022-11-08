@@ -1,1 +1,3 @@
-console.log('Hello')
+import './scripts/Commands'
+
+import './scripts/Buttons'
